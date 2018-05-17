@@ -14,5 +14,5 @@ echo "Enter domain:"
 read dn
 
 
-rdesktop -u $user -d $dn -p $p -n $ip -g 80%
+rdesktop -u $user -d $dn -p $pw -n $ip -g 80%
 
